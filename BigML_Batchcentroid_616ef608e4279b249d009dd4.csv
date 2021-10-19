@@ -1,0 +1,73 @@
+Pregnancies,Glucose,Blood pressure,Skinfold,Insulin,BMI,Diabetes pedigree,Age,Diabetes,weight,cluster
+5,166,72,19,175,25.8,0.587,51,True,1,Mujeres edad media valor glucosa alto (no diabetes)
+6,92,92,0,0,19.9,0.188,28,False,1,jovenes saludables
+7,103,66,32,0,39.1,0.344,31,True,1,jovenes saludables
+5,88,66,21,23,24.4,0.342,30,False,1,jovenes saludables
+0,109,88,30,0,32.5,0.855,38,True,1,jovenes (No diabetes)
+1,79,75,30,0,32.0,0.396,22,False,1,jovenes saludables
+9,57,80,37,0,32.8,0.096,41,False,1,Mujeres edad media valor glucosa alto (no diabetes)
+7,152,88,44,0,50.0,0.337,36,True,1,jovenes (No diabetes)
+1,109,56,21,135,25.2,0.833,23,False,1,jovenes saludables
+0,131,88,0,0,31.6,0.743,32,True,1,jovenes saludables
+3,111,90,12,78,28.4,0.495,29,False,1,jovenes saludables
+1,128,98,41,58,32.0,1.321,33,True,1,jovenes (No diabetes)
+5,139,80,35,160,31.6,0.361,25,True,1,jovenes saludables
+3,111,62,0,0,22.6,0.142,21,False,1,jovenes saludables
+8,85,55,20,0,24.4,0.136,42,False,1,jovenes saludables
+3,107,62,13,48,22.9,0.678,23,True,1,jovenes saludables
+12,151,70,40,271,41.8,0.742,38,True,1,jovenes (Diabetes)
+3,162,52,38,0,37.2,0.652,24,True,1,jovenes (No diabetes)
+1,91,64,24,0,29.2,0.192,21,False,1,jovenes saludables
+0,165,90,33,680,52.3,0.427,23,False,1,jovenes (Diabetes)
+3,142,80,15,0,32.4,0.2,63,False,1,Mujeres edad media valor glucosa alto (no diabetes)
+2,108,62,10,278,25.3,0.881,22,False,1,jovenes saludables
+1,119,86,39,220,45.6,0.808,29,True,1,jovenes (No diabetes)
+8,112,72,0,0,23.6,0.84,58,False,1,Mujeres edad media valor glucosa alto (no diabetes)
+5,122,86,0,0,34.7,0.29,33,False,1,jovenes saludables
+1,90,62,12,43,27.2,0.58,24,False,1,jovenes saludables
+5,189,64,33,325,31.2,0.583,29,True,1,jovenes (Diabetes)
+6,124,72,0,0,27.6,0.368,29,True,1,jovenes saludables
+0,101,64,17,0,21.0,0.252,21,False,1,jovenes saludables
+12,140,82,43,325,39.2,0.528,58,True,1,Mujeres edad media valor glucosa alto (no diabetes)
+2,127,58,24,275,27.7,1.6,25,False,1,jovenes (No diabetes)
+1,95,82,25,180,35.0,0.233,43,True,1,jovenes saludables
+3,89,74,16,85,30.4,0.551,38,False,1,jovenes saludables
+1,90,68,8,0,24.5,1.138,36,False,1,jovenes saludables
+1,100,72,12,70,25.3,0.658,28,False,1,jovenes saludables
+0,120,74,18,63,30.5,0.285,26,False,1,jovenes saludables
+6,154,78,41,140,46.1,0.571,27,False,1,jovenes (No diabetes)
+1,144,82,40,0,41.3,0.607,28,False,1,jovenes (No diabetes)
+0,119,66,27,0,38.8,0.259,22,False,1,jovenes saludables
+6,166,74,0,0,26.6,0.304,66,False,1,Mujeres edad media valor glucosa alto (no diabetes)
+7,94,64,25,79,33.3,0.738,41,False,1,jovenes saludables
+2,68,70,32,66,25.0,0.187,25,False,1,jovenes saludables
+0,107,76,0,0,45.3,0.686,24,False,1,jovenes saludables
+3,129,92,49,155,36.4,0.968,32,True,1,jovenes (No diabetes)
+1,88,78,29,76,32.0,0.365,29,False,1,jovenes saludables
+8,186,90,35,225,34.5,0.423,37,True,1,Mujeres edad media valor glucosa alto (no diabetes)
+1,87,68,34,77,37.6,0.401,24,False,1,jovenes saludables
+6,92,62,32,126,32.0,0.085,46,False,1,jovenes saludables
+0,121,66,30,165,34.3,0.203,33,True,1,jovenes saludables
+1,143,86,30,330,30.1,0.892,23,False,1,jovenes (Diabetes)
+3,132,80,0,0,34.4,0.402,44,True,1,Mujeres edad media valor glucosa alto (no diabetes)
+6,117,96,0,0,28.7,0.157,30,False,1,jovenes saludables
+9,112,82,24,0,28.2,1.282,50,True,1,Mujeres edad media valor glucosa alto (no diabetes)
+0,102,78,40,90,34.5,0.238,24,False,1,jovenes saludables
+2,111,60,0,0,26.2,0.343,23,False,1,jovenes saludables
+5,104,74,0,0,28.8,0.153,48,False,1,jovenes saludables
+1,91,54,25,100,25.2,0.234,23,False,1,jovenes saludables
+2,101,58,35,90,21.8,0.155,22,False,1,jovenes saludables
+3,80,82,31,70,34.2,1.292,27,True,1,jovenes (No diabetes)
+1,112,80,45,132,34.8,0.217,24,False,1,jovenes saludables
+9,154,78,30,100,30.9,0.164,45,False,1,Mujeres edad media valor glucosa alto (no diabetes)
+10,68,106,23,49,35.5,0.285,47,False,1,Mujeres edad media valor glucosa alto (no diabetes)
+0,162,76,36,0,49.6,0.364,26,True,1,jovenes (No diabetes)
+13,158,114,0,0,42.3,0.257,44,True,1,Mujeres edad media valor glucosa alto (no diabetes)
+2,90,60,0,0,23.5,0.191,25,False,1,jovenes saludables
+2,122,76,27,200,35.9,0.483,26,False,1,jovenes saludables
+3,173,78,39,185,33.8,0.97,31,True,1,jovenes (No diabetes)
+4,83,86,19,0,29.3,0.317,34,False,1,jovenes saludables
+1,114,66,36,200,38.1,0.289,21,False,1,jovenes saludables
+11,120,80,37,150,42.3,0.785,48,True,1,Mujeres edad media valor glucosa alto (no diabetes)
+9,140,94,0,0,32.7,0.734,45,True,1,Mujeres edad media valor glucosa alto (no diabetes)
+0,181,88,44,510,43.3,0.222,26,True,1,jovenes (Diabetes)
